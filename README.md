@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-**MarianCyril C. De Sagun**
+**Maria Cyril C. De Sagun**
 
 BT3101
 
